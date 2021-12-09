@@ -29,3 +29,7 @@ deded
 deed
 
 e
+
+Hey note to me source code is [here](https://github.com/0ffffff/testtesttest/tree/main/docs) ok bye
+
+[not ip grabber](OTHERSITE.md)
